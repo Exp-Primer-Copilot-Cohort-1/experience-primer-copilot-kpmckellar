@@ -1,3 +1,4 @@
 function skillsMember() {
-    // Code
+    var skills = ["HTML", "CSS", "JavaScript"];
+    return skills;
 }
